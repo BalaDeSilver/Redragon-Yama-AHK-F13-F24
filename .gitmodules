@@ -1,0 +1,6 @@
+[submodule "Lib"]
+	path = Lib
+	url = https://github.com/evilC/TapHoldManager
+[submodule "TapHoldManager"]
+	path = TapHoldManager
+	url = https://github.com/evilC/TapHoldManager
